@@ -22,7 +22,7 @@ In addition to those skills, I have documented experience and feel comfortable w
 - **Python**:
 - **SQL**:
 - **C++**:
-  - Minor Experience with:
+  Minor Experience with:
   - **Markdown**:
   - **Javascript**
   
