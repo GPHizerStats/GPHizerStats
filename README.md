@@ -22,11 +22,11 @@ In addition to those skills, I have documented experience and feel comfortable w
 - **Python**
 - **SQL**
 - **C++**
-  
+
+In my free time I am also happy to do ad hoc research projects for any sports topic you may be interested in, much like [this research graphic] (https://twitter.com/CoachColtonKorn/status/1658569920395857935) I created for the DPP at Liberty.
 
 For any questions regarding any of my projects, job applications, current projects, or topic-requests feel free to email me at:
   ***gphizerstats@gmail.com***
-
 
 
 #### Thank you for your time and happy browsing!
