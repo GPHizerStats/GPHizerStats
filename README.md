@@ -8,23 +8,20 @@ Hi everyone, my name is Grant Hizer and I am a class of 2023 student at SMU. Aft
 To this day, I love being able to dig into the details of different sports and find any hidden trends, or unearth any new ways of viewing teams. While I dream of working in personnel for a professional team (any sport) or college football team, I also love nerding out of sports stats with anyone else that loves them. That's why this page exists: to both show off my skills and experience to future employers, as well as have a place for any other analytics junkie to come see my work.  
 
 These projects required knowledge in:
-- **Data Cleaning & Manipulation**:
-- **Statistical Modeling**:
-- **Machine Learning via Gradient Boosting**:
-- **Data Visualization**:
-- **Football Schemes and Strategy**:
-- **Web-Scraping**:
-- **Google Sheets/Google Workplace**:
+- **Data Cleaning & Manipulation**
+- **Statistical Modeling**
+- **Machine Learning via Gradient Boosting**
+- **Data Visualization**
+- **Football Schemes and Strategy**
+- **Web-Scraping**
+- **Google Sheets/Google Workplace**
 - **And much more!**
 
 In addition to those skills, I have documented experience and feel comfortable with the following coding languages:
-- **R**:
-- **Python**:
-- **SQL**:
-- **C++**:
-  Minor Experience with:
-  - **Markdown**:
-  - **Javascript**
+- **R**
+- **Python**
+- **SQL**
+- **C++**
   
 
 For any questions regarding any of my projects, job applications, current projects, or topic-requests feel free to email me at:
