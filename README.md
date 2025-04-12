@@ -1,5 +1,5 @@
 ## Grant Hizer Analytics Portfolio - SMU Data Science and Statistics '23
-###### *Current: Seasonal Research Analyst, NFL Next Gen Stats | Former: Scouting and Analytics Student Assistant, SMU Football*
+###### *Former: Seasonal Research Analyst, NFL Next Gen Stats | Scouting and Analytics Student Assistant, SMU Football*
 
 #### Welcome to my GitHub Portfolio! 
 
